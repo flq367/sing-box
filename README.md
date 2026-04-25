@@ -3,9 +3,9 @@
 最好用的 sing-box 一键安装脚本 & 管理脚本
 
 # 一键脚本
-、、、
+···
 bash <(wget -qO- -o- https://github.com/flq367/sing-box/raw/main/install.sh)
-、、、
+···
 
 # 特点
 
